@@ -1,0 +1,19 @@
+{
+  "name": "covidstatstelegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Comrade19632/CovidStatsTelegramBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Comrade19632/CovidStatsTelegramBot/issues"
+  },
+  "homepage": "https://github.com/Comrade19632/CovidStatsTelegramBot#readme"
+}
