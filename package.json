@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Comrade19632/CovidStatsTelegramBot/issues"
   },
-  "homepage": "https://github.com/Comrade19632/CovidStatsTelegramBot#readme"
+  "homepage": "https://github.com/Comrade19632/CovidStatsTelegramBot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "telegraf": "^3.37.0"
+  }
 }
